@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Tooplate">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+
+    <title>ArtXibition HTML Event Template</title>
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/owl-carousel.css">
+
+    <link rel="stylesheet" href="assets/css/tooplate-artxibition.css">
+<!--
+
+Tooplate 2125 ArtXibition
+
+https://www.tooplate.com/view/2125-artxibition
+
+-->
+    </head>
+    
+    <body>
+    
+    <!-- ***** Preloader Start ***** -->
+    <div id="js-preloader" class="js-preloader">
+      <div class="preloader-inner">
+        <span class="dot"></span>
+        <div class="dots">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </div>
+    <!-- ***** Preloader End ***** -->
+    
+    <!-- ***** Pre HEader ***** -->
+    <div class="pre-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6">
+                    <span>Hey! aprovecha nuestras ofertas.</span>
+                </div>
+                <div class="col-lg-6 col-sm-6">
+                    <div class="text-button">
+                        <a href="rent-venue.html">Contact Us Now! <i class="fa fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        <!-- ***** Logo Start ***** -->
+                        <a href="index.html" class="logo">Tienda<em>SARA</em></a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            <li><a href="index.html" class="active">Home</a></li>
+                            <li><a href="about.html">Inicio</a></li>
+                            <li><a href="rent-venue.html">Categorias</a></li>
+                            <li><a href="shows-events.html">Motos</a></li> 
+                            <li><a href="tickets.html">Buscar Mas</a></li> 
+                        </ul>        
+                        <a class='menu-trigger'>
+                            <span>Menu</span>
+                        </a>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+
+    <!-- ***** Main Banner Area Start ***** -->
+    <div class="main-banner">
+        <div class="counter-content">
+            <ul>
+                <li>Days<span id="days"></span></li>
+                <li>Hours<span id="hours"></span></li>
+                <li>Minutes<span id="minutes"></span></li>
+                <li>Seconds<span id="seconds"></span></li>
+            </ul>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="main-content">
+                        <div class="next-show">
+                            <i class="fa fa-arrow-up"></i>
+                            <span>Deslice</span>
+                        </div>
+                        <h6>Siempre con Las Mejores Ofertas</h6>
+                        <h2>TIENDASARA TIENE TODO LO QUE NECESITAS</h2>
+                        <div class="main-white-button">
+                            <a href="ticket-details.html">agrega productos al carrito</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Main Banner Area End ***** -->
+
+    <!-- *** Owl Carousel Items ***-->
+    <div class="show-events-carousel">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="owl-show-events owl-carousel">
+                        <div class="item">
+                            <a href="event-details.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVJN_VMJV318mSbZYBZHn_6q4lv665zXJDkg&s" alt=""></a>
+                        </div>
+                        <div class="item">
+                            <a href="event-details.html"><img src="https://media.gq.com.mx/photos/61e70ca25def32c5619cef06/16:9/w_944,h_531,c_limit/Lenovo%20Yoga%20Slim%207%20Pro.jpg" alt=""></a> 
+                        </div>
+                        <div class="item">
+                            <a href="event-details.html"><img src="https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/latam/latin/mkt/plp/laptops/kv/matebook-14-2021-kv.jpg" alt=""></a> 
+                        </div>
+                        <div class="item">
+                            <a href="event-details.html"><img src="https://m.media-amazon.com/images/I/717njqTYEJL.jpg" alt=""></a> 
+                        </div>
+                        <div class="item">
+                            <a href="event-details.html"><img src="https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/latam/mx/support/laptop-user-guide/img/laptop.png" alt=""></a> 
+                        </div>
+                        <div class="item">
+                            <a href="event-details.html"><img src="https://hiraoka.com.pe/media/mageplaza/blog/post/m/e/mejores_laptops_hp-hiraoka.jpg" alt=""></a> 
+                        </div>
+                        <div class="item">
+                            <a href="event-details.html"><img src="https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/laptops-and-2-n-1s/envy/hp-15-laptop-amd-2.png" alt=""></a> 
+                        </div>
+                        <div class="item">
+                            <a href="event-details.html"><img src="https://m.media-amazon.com/images/I/71XT7XiceUL.jpg" alt=""></a> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <!-- *** Amazing Venus ***-->
+    <div class="amazing-venues">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <div class="left-content">
+                        <h4>Es tiempo de Ofertas</h4>
+                        <p>Aprovecha nuestros descuentos <a href="index.html">Homepage</a>, <a href="about.html">About</a>, 
+                        <a href="rent-venue.html">Rent a venue</a>, <a href="shows-events.html">shows &amp; events</a>, 
+                        <a href="event-details.html">event details</a>, <a href="tickets.html">Entregas super rapidas</a>, and <a href="ticket-details.html">ticket details</a>. 
+                        You can feel free to modify any page as you like. If you have any question, please visit our <a href="https://www.tooplate.com/contact" target="_blank">Contact page</a>.</p>
+                        <br>
+                        <p>tu mereces estrenar <a href="https://www.toocss.com/" target="_blank">Too CSS</a> website that features a great collection of templates in different categories.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="right-content">
+                        <h5><i class="fa fa-map-marker"></i> Visit Us</h5>
+                        <span>5 College St NW, <br>Norcross, GA 30071<br>United States</span>
+                        <div class="text-button"><a href="show-events-details.html">Need Directions? <i class="fa fa-arrow-right"></i></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- *** Map ***-->
+    <div class="map-image">
+        <img src="assets/images/map-image.jpg" alt="Maps of 3 Venues">
+    </div>
+
+
+    <!-- *** Venues & Tickets ***-->
+    <div class="venue-tickets">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-heading">
+                        <h2>Our Venues & Tickets</h2>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="venue-item">
+                        <div class="thumb">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ModelsCatwalk.jpg/640px-ModelsCatwalk.jpg" alt="">
+                        </div>
+                        <div class="down-content">
+                            <div class="left-content">
+                                <div class="main-white-button">
+                                    <a href="ticket-details.html">Purchase Tickets</a>
+                                </div>
+                            </div>
+                            <div class="right-content">
+                                <h4>Radio City Musical Hall</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur vinzi iscing elit, sed doers kontra.</p>
+                                <ul>
+                                    <li><i class="fa fa-sitemap"></i>250</li>
+                                    <li><i class="fa fa-user"></i>500</li>
+                                </ul>
+                                <div class="price">
+                                    <span>1 ticket<br>from <em>$45</em></span>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="venue-item">
+                        <div class="thumb">
+                            <img src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/Imagen1_047244f6-1615-4d52-a373-1afaa14b2c0a.png?v=1681332951" alt="">
+                        </div>
+                        <div class="down-content">
+                            <div class="left-content">
+                                <div class="main-white-button">
+                                    <a href="ticket-details.html">Purchase Tickets</a>
+                                </div>
+                            </div>
+                            <div class="right-content">
+                                <h4>Madison Square Garden</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur vinzi iscing elit, sed doers kontra.</p>
+                                <ul>
+                                    <li><i class="fa fa-sitemap"></i>450</li>
+                                    <li><i class="fa fa-user"></i>650</li>
+                                </ul>
+                                <div class="price">
+                                    <span>1 ticket<br>from <em>$55</em></span>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="venue-item">
+                        <div class="thumb">
+                            <img src="https://www.redeweb.com/wp-content/uploads/2023/10/aparatos-electronicos.jpg" alt="">
+                        </div>
+                        <div class="down-content">
+                            <div class="left-content">
+                                <div class="main-white-button">
+                                    <a href="ticket-details.html">Purchase Tickets</a>
+                                </div>
+                            </div>
+                            <div class="right-content">
+                                <h4>Royce Hall</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur vinzi iscing elit, sed doers kontra.</p>
+                                <ul>
+                                    <li><i class="fa fa-sitemap"></i>450</li>
+                                    <li><i class="fa fa-user"></i>750</li>
+                                </ul>
+                                <div class="price">
+                                    <span>1 ticket<br>from <em>$65</em></span>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- *** Coming Events ***-->
+    <div class="coming-events">
+        <div class="left-button">
+            <div class="main-white-button">
+                <a href="shows-events.html">Discover More</a>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="event-item">
+                        <div class="thumb">
+                            <a href="event-details.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQvZ0CPyGyjAdhXEjWwcwdTctaEZ-ytOK4w&s" alt=""></a>
+                        </div>
+                        <div class="down-content">
+                            <a href="event-details.html"><h4>Radio City Musical Hall</h4></a>
+                            <ul>
+                                <li><i class="fa fa-clock-o"></i> Tuesday: 15:30-19:30</li>
+                                <li><i class="fa fa-map-marker"></i> Copacabana Beach, Rio de Janeiro</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="event-item">
+                        <div class="thumb">
+                            <a href="event-details.html"><img src="https://www.factorenergia.com/wp-content/uploads/2021/12/comprar-electrodomesticos-eficientes.jpg" alt=""></a>
+                        </div>
+                        <div class="down-content">
+                            <a href="event-details.html"><h4>Madison Square Garden</h4></a>
+                            <ul>
+                                <li><i class="fa fa-clock-o"></i> Wednesday: 08:00-14:00</li>
+                                <li><i class="fa fa-map-marker"></i> Copacabana Beach, Rio de Janeiro</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="event-item">
+                        <div class="thumb">
+                            <a href="event-details.html"><img src="https://www.shutterstock.com/shutterstock/photos/2521253117/display_1500/stock-vector-cartoon-household-electronic-appliances-home-appliance-domestic-kitchen-devices-refrigerator-2521253117.jpg" alt=""></a>
+                        </div>
+                        <div class="down-content">
+                            <a href="event-details.html"><h4>Royce Hall</h4></a>
+                            <ul>
+                                <li><i class="fa fa-clock-o"></i> Thursday: 09:00-23:00</li>
+                                <li><i class="fa fa-map-marker"></i> Copacabana Beach, Rio de Janeiro</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- *** Subscribe *** -->
+    <div class="subscribe">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <h4>Subscribe Our Newsletter:</h4>
+                </div>
+                <div class="col-lg-8">
+                    <form id="subscribe" action="" method="get">
+                        <div class="row">
+                          <div class="col-lg-9">
+                            <fieldset>
+                              <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email Address" required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-3">
+                            <fieldset>
+                              <button type="submit" id="form-submit" class="main-dark-button">Submit</button>
+                            </fieldset>
+                          </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- *** Footer *** -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="address">
+                        <h4>Sunny Hill Festival Address</h4>
+                        <span>5 College St NW, <br>Norcross, GA 30071<br>United States</span>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><a href="#">Info</a></li>
+                            <li><a href="#">Venues</a></li>
+                            <li><a href="#">Guides</a></li>
+                            <li><a href="#">Videos</a></li>
+                            <li><a href="#">Outreach</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="hours">
+                        <h4>Open Hours</h4>
+                        <ul>
+                            <li>Mon to Fri: 10:00 AM to 8:00 PM</li>
+                            <li>Sat - Sun: 11:00 AM to 4:00 PM</li>
+                            <li>Holidays: Closed</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="under-footer">
+                        <div class="row">
+                            <div class="col-lg-6 col-sm-6">
+                                <p>São Conrado, Rio de Janeiro</p>
+                            </div>
+                            <div class="col-lg-6 col-sm-6">
+                                <p class="copyright">Copyright 2021 ArtXibition Company 
+                    
+                    			<br>Design: <a rel="nofollow" href="https://www.tooplate.com" target="_parent">Tooplate</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="sub-footer">
+                        <div class="row">
+                            <div class="col-lg-3">
+                                <div class="logo"><span>Art<em>Xibition</em></span></div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="menu">
+                                    <ul>
+                                        <li><a href="index.html" class="active">Home</a></li>
+                                        <li><a href="about.html">About Us</a></li>
+                                        <li><a href="rent-venue.html">Rent Venue</a></li>
+                                        <li><a href="shows-events.html">Shows & Events</a></li> 
+                                        <li><a href="tickets.html">Tickets</a></li> 
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="social-links">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="assets/js/jquery-2.1.0.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="assets/js/popper.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="assets/js/scrollreveal.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/imgfix.min.js"></script> 
+    <script src="assets/js/mixitup.js"></script> 
+    <script src="assets/js/accordions.js"></script>
+    <script src="assets/js/owl-carousel.js"></script>
+    
+    <!-- Global Init -->
+    <script src="assets/js/custom.js"></script>
+
+  </body>
+</html>
